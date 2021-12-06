@@ -1,0 +1,1 @@
+# These are quick scripts created for challenges or to aid in projects I've worked on
